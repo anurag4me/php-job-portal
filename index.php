@@ -8,10 +8,8 @@
 <body>
     <h1>Welcome to the Job Portal</h1>
     <p>Find your dream job here!</p>
-    <?php
-        echo "Hello, World!";
-    ?>
-    <br>
-    <a href="get_all_users.php">Get all the users</a>
+    <h3>Available Actions:</h3>
+    <a href="get_all_users.php">Get all the users</a><br>
+    <a href="add_new_user.php">Add new user</a><br>
 </body>
 </html>
