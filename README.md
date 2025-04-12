@@ -1,0 +1,2 @@
+# 🔧 Project Idea: Job Portal System
+A platform where job seekers can apply for jobs, and companies can post openings. This gives you a chance to work with user roles, authentication, file uploads (resumes), and search/filter features.
