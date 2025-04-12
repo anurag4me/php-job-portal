@@ -11,5 +11,7 @@
     <?php
         echo "Hello, World!";
     ?>
+    <br>
+    <a href="get_all_users.php">Get all the users</a>
 </body>
 </html>
